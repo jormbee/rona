@@ -5,4 +5,4 @@ Goals Reached: 300 tutors; 600 students; 2500 instagram followers
 
 Tech Stack: HTML, CSS, Python
 
-Contributors: Jeremy Baum, Soham Patil, Dylan Pratt, Maddie Hsu
+Website Contributors: Jeremy Baum, Soham Patil, Dylan Pratt, Maddie Hsu
